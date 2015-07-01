@@ -1,0 +1,14 @@
+name: StatsAPI
+main: me.WingedMLGPro.StatsAPIMain
+version: 1.0
+author: WingedMLGPro
+
+commands:
+    stats:
+        usage: /<command>
+    topKills:
+        usage: /<command>
+    topDeaths:
+        usage: /<command>
+    topStreak:
+        usage: /<command>

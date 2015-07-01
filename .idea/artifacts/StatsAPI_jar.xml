@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="StatsAPI:jar">
+    <output-path>$PROJECT_DIR$/../../Java</output-path>
+    <root id="archive" name="StatsAPI.jar">
+      <element id="module-output" name="StatsAPI" />
+    </root>
+  </artifact>
+</component>
